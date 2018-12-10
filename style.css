@@ -68,3 +68,7 @@ form label {
 #side-bar {
     padding-right: 10px;
 }
+
+.endorsed {
+    color: grey;
+}
